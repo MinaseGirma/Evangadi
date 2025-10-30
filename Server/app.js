@@ -13,7 +13,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://evangadiforummg.netlify.app"
+      // "https://evangadiforummg.netlify.app"
     ],
     credentials: true,
   })
